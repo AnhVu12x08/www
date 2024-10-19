@@ -33,3 +33,8 @@ if __name__ == "__main__":
     city = input("Enter the city name: ")
 
     get_weather(api_key, city)
+
+
+
+
+def get_weather(api_key, city):
